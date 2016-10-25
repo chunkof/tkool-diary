@@ -9,7 +9,7 @@ var runSequence = require('run-sequence');
 var hashCreator = require("gulp-hash-creator");
 
 // settings
-var devlop_dir  ="doc/";
+var devlop_dir  ="docs/";
 var release_dir ="C:/Users/Shuichi/Dropbox/chunkof/d";
 
 //------------------
