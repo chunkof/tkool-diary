@@ -10,7 +10,7 @@ var hashCreator = require("gulp-hash-creator");
 
 // settings
 var devlop_dir  ="docs/";
-var release_dir ="C:/Users/Shuichi/Dropbox/chunkof/d";
+var release_dir ="";
 
 //------------------
 //    Insert cache breaker
