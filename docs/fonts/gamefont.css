@@ -1,0 +1,17 @@
+@font-face {
+    font-family: GameFont;
+    src: url("mplus-1m-regular.ttf");
+}
+
+.info {
+    color: #AAA;
+    position: fixed;
+    font-size: 12px;
+    bottom: 0px;
+    right: 10px;
+}
+a{text-decoration: none;}
+a:link { color: #c6f0f3; }
+a:visited { color: #6d83b4; }
+a:hover { color: #eec3c2; }
+a:active { color: #ffebd4; }

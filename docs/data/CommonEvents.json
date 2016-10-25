@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["どこへ飛びますか？"]},{"code":102,"indent":0,"parameters":[["はじまりの地","所長室","開発室","実験室"],-2,0,2,0]},{"code":402,"indent":0,"parameters":[0,"はじまりの地"]},{"code":201,"indent":1,"parameters":[0,1,8,6,0,0]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"所長室"]},{"code":201,"indent":1,"parameters":[0,3,8,9,0,0]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"開発室"]},{"code":201,"indent":1,"parameters":[0,3,16,10,0,0]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"実験室"]},{"code":201,"indent":1,"parameters":[0,3,24,11,0,0]},{"code":0,"indent":1,"parameters":[]},{"code":403,"indent":0,"parameters":[6,null]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"インデックスジャンプ","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":101,"indent":0,"parameters":["",0,1,1]},{"code":401,"indent":0,"parameters":["\\>"]},{"code":401,"indent":0,"parameters":["\\>                スキル”３連休”を修得した！"]},{"code":401,"indent":0,"parameters":["\\>"]},{"code":0,"indent":0,"parameters":[]}],"name":"3連休ゲット","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
